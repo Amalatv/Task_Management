@@ -29,12 +29,12 @@ This is a React-based task management application that allows users to create, e
 
 1. Clone the repository:
    
-   git clone https://github.com/your-username/task-management-app.git
+   git clone https://github.com/Amalatv/Task_Management.git
    
 
 2. Navigate to the project directory:
    
-   cd task-management-app
+   cd task-management
    
 
 3. Install dependencies:
